@@ -9,4 +9,4 @@ Currently implemented architectures:
 Transformer models come in different versions improving sequentially.
 
 Up next:
-- Export the best model to the ONNX format and deploy it to a web app
+- Deploy ONNX it to a web app
